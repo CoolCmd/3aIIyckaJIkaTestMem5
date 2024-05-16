@@ -1,3 +1,8 @@
+> [!CAUTION]
+> **“Запускалка TestMem5”** больше не нужна! Пользуйтись [доработанным TestMem5](https://github.com/CoolCmd/TestMem5).
+
+---
+
 ﻿Программа **“Запускалка TestMem5”** предназначена для запуска программы [TestMem5 автора Serj](http://testmem.tz.ru/testmem5.htm). Вместе с Запускалкой распостраняется исправленный файл `TM5.exe` программы TestMem5. Запускалка работает как с оригинальной версией 0.12, так и с этой исправленной версией. Автор Запускалки и исправлений файла TM5.exe — [CoolCmd](https://forums.overclockers.ru/memberlist.php?mode=viewprofile&u=27728).
 
 ### Что умеет Запускалка?
